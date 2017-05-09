@@ -1,3 +1,6 @@
 # ScreenShot
-![ScreenShot](https://raw.githubusercontent.com/derwish-pro/vscode-theme13/master/images/screen.png)
+![ScreenShot](https://raw.githubusercontent.com/derwish-pro/vscode-theme13/master/images/screen1.png)
 
+![ScreenShot](https://raw.githubusercontent.com/derwish-pro/vscode-theme13/master/images/screen2.png)
+
+![ScreenShot](https://raw.githubusercontent.com/derwish-pro/vscode-theme13/master/images/screen3.png)
