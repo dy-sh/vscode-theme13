@@ -1,0 +1,32 @@
+{
+	"name": "derwish-theme13",
+	"displayName": "Derwish Theme13",
+	"description": "Dimmed Theme13.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/.git"
+	},
+	"version": "1.0.0",
+	"license": "MIT",
+	"publisher": "derwish",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#44494f",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Derwish Theme13",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Derwish Theme13.tmTheme"
+			}
+		]
+	}
+}
