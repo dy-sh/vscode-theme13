@@ -6,7 +6,7 @@
 		"type": "git",
 		"url": "https://github.com/derwish-pro/vscode-theme13.git"
 	},
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"license": "MIT",
 	"publisher": "derwish",
 	"engines": {
