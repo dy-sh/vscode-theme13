@@ -4,9 +4,9 @@
 	"description": "Dimmed Theme13.",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/.git"
+		"url": "https://github.com/derwish-pro/vscode-theme13.git"
 	},
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"publisher": "derwish",
 	"engines": {
@@ -15,7 +15,7 @@
 	"categories": [
 		"Themes"
 	],
-	"icon": "images/icon.png",
+	"icon": "images/screen.png",
 	"galleryBanner": {
 		"color": "#44494f",
 		"theme": "dark"
