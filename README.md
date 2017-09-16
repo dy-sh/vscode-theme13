@@ -13,7 +13,8 @@ Derwish Theme13 - theme for VS Code.
 
 ![ScreenShot](https://raw.githubusercontent.com/derwish-pro/vscode-theme13/master/images/screen4.png)
 
-
+# Dark Variant
+![ScreenShot](https://raw.githubusercontent.com/derwish-pro/vscode-theme13/master/images/dark1.png)
 
 # Tweaks
 

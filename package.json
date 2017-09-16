@@ -6,7 +6,7 @@
 		"type": "git",
 		"url": "https://github.com/derwish-pro/vscode-theme13.git"
 	},
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"license": "MIT",
 	"publisher": "derwish",
 	"engines": {
@@ -26,6 +26,11 @@
 				"label": "Derwish Theme13",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Derwish Theme13.json"
+			},
+			{
+				"label": "Derwish Theme13 Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Derwish Theme13 Dark.json"
 			}
 		]
 	},
