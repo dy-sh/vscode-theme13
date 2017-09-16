@@ -1,10 +1,8 @@
 # Derwish Theme13
-Derwish Theme13 - theme for VS Code.
+A dark minimalistic theme for VSCode.
 
 [GitHub repository](https://github.com/derwish-pro/vscode-theme13)
 
-
-# ScreenShot
 
 ## Dark Version
 ![ScreenShot](https://raw.githubusercontent.com/derwish-pro/vscode-theme13/master/images/dark1.png)
