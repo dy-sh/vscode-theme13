@@ -592,6 +592,19 @@
 				<string>#EDE6E4</string>
 			</dict>
 		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>statusBar</string>
+			<key>scope</key>
+			<string>statusBar</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#33373B</string>
+			</dict>
+		</dict>
+
 	</array>
 	<key>uuid</key>
 	<string>21a3a5f5-e82f-48a8-bc8b-9aef307f6131</string>
