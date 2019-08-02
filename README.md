@@ -24,5 +24,9 @@ A dark minimalistic theme for VSCode.
 
 Use "file-icons" extension for icons.
 
+# Downoad this theme for other apps
 
+[JetBrains IDEs](https://github.com/derwish-pro/jetbrains-theme13)  
+[Directory Opus](https://resource.dopus.com/t/derwish-theme13)  
+[PotPlayer](https://potplayer.daum.net/forum/viewtopic.php?f=11&t=20924)  
 
