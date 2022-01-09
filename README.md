@@ -5,18 +5,18 @@ A dark minimalistic theme for VSCode.
 
 
 ## Dark Version
-![ScreenShot](https://raw.githubusercontent.com/dy-sh/vscode-theme13/master/images/dark1.png)
+![ScreenShot](images/dark1.png)
 
 
 ## Default Version
 
-![ScreenShot](https://raw.githubusercontent.com/dy-sh/vscode-theme13/master/images/screen1.png)
+![ScreenShot](images/screen1.png)
 
-![ScreenShot](https://raw.githubusercontent.com/dy-sh/vscode-theme13/master/images/screen2.png)
+![ScreenShot](images/screen2.png)
 
-![ScreenShot](https://raw.githubusercontent.com/dy-sh/vscode-theme13/master/images/screen3.png)
+![ScreenShot](images/screen3.png)
 
-![ScreenShot](https://raw.githubusercontent.com/dy-sh/vscode-theme13/master/images/screen4.png)
+![ScreenShot](images/screen4.png)
 
 
 
