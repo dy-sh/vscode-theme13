@@ -8,7 +8,7 @@
 	},
 	"version": "1.0.10",
 	"license": "MIT",
-	"publisher": "Dmitry Savosh",
+	"publisher": "derwish",
 	"engines": {
 		"vscode": "^1.5.0"
 	},
